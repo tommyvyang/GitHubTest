@@ -19,6 +19,10 @@ public class GitHubTest {
         // TODO code application logic here
     }
     
+    public void calc(int x){
+        
+    }
+    
 }
 
 // comment by kou xiong
